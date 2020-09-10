@@ -12,5 +12,9 @@
 ### ASSIGNMENT-4
     1. Multi process & Multi thread.
 ### ASSIGNMENT-5
-    1. &nbsp;
-
+    1. Multithreaded program that generates the Fibonacci series.
+    2. Show multiple threads with local, global and static variables. 
+### ASSIGNMENT-6
+    1. Binary and counting semaphore.
+    2. Peterson’s Algorithm 
+    3. Race condition Fork() system call.
