@@ -2,8 +2,8 @@
     APOORV LODHI
     181112005 CSE-1
     Semester V
-    Subject Code-CSE 317
-    Faculty Name-Prof.VIJAY BHASKAR
+    Subject Code - CSE 317
+    Faculty Name - Prof.VIJAY BHASKAR
 
 ### ASSIGNMENT-1
     1. Multithreaded program to generates the Fibonacci series.
