@@ -18,3 +18,6 @@
     1. Binary and counting semaphore.
     2. Peterson’s Algorithm 
     3. Race condition Fork() system call.
+### ASSIGNMENT-6
+    1. Producer and Consumer.
+    2. Reader and writer.
