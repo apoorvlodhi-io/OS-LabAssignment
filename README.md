@@ -44,3 +44,7 @@
 ### ASSIGNMENT-9
 
     1. Implement Banker's Algorithm
+
+### ASSIGNMENT-10
+
+    1. Write a code for implementation of disk scheduling FCFS, SSTF, SCAN, C-SCAN.
