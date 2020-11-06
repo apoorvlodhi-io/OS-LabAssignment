@@ -47,8 +47,14 @@
 
 ### ASSIGNMENT-10
 
-    1. Write a code for implementation of  FCFS, Priority, Round-Robin, SJF scheduling.
+    1. Write a code for implementation of  FCFS scheduling.
+    2. Write a code for implementation of Priority scheduling.
+    3. Write a code for implementation of Round-Robin scheduling.
+    4. Write a code for implementation of SJF scheduling.
 
 ### ASSIGNMENT-11
 
-    1. Write a code for implementation of disk scheduling FCFS, SSTF, SCAN, C-SCAN.
+    1. Write a code for implementation of FCFS disk scheduling.
+    2. Write a code for implementation of SSTF disk scheduling.
+    3. Write a code for implementation of SCAN disk scheduling.
+    4. Write a code for implementation of C-SCAN disk scheduling.
