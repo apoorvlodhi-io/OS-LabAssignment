@@ -40,3 +40,7 @@
 
     1. Dining philosofers problem using Semaphore.
     2. Dining philosofers problem using Monitor.
+
+### ASSIGNMENT-9
+
+    1. Implement Banker's Algorithm
